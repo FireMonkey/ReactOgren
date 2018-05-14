@@ -20,6 +20,7 @@ export default class App extends React.Component {
     }
   }
 
+  
   test = () => {
 
     this.setState({ refreshing: true });
